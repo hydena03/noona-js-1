@@ -13,3 +13,8 @@
   text-align: center;
   border: 10px solid #000000;
 }
+
+.boss img{
+  border-radius: 50%;
+  width:300px;
+}
