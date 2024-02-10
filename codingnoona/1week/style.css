@@ -1,0 +1,20 @@
+.king{
+  background-color: #222222;
+  height: 90px;
+  color:#dfca0d;
+  text-align: center;
+  border: 10px solid #000000;
+}
+
+.boss{
+  background-color: #222222;
+  height: 910px;
+  color:#fafafa;
+  text-align: center;
+  border: 10px solid #000000;
+}
+
+.boss img{
+  border-radius: 50%;
+  width:300px;
+}
