@@ -1,0 +1,15 @@
+.king{
+  background-color: #222222;
+  height: 90px;
+  color:#fafafa;
+  text-align: center;
+  border: 10px solid #000000;
+}
+
+.boss{
+  background-color: #222222;
+  height: 900px;
+  color:#fafafa;
+  text-align: center;
+  border: 10px solid #000000;
+}
